@@ -27,7 +27,7 @@ if (isset($_SESSION['alert'])) : ?>
 
       </div>
       <div class="d-flex align-items-end justify-content-end">
-        <img class="position-absolute " width="35%" src="../../assets/images/man-with-laptop-light.png">
+        <img class="position-absolute " width="35%" src="./assets/images/man-with-laptop-light.png">
       </div>
 
     </div>
